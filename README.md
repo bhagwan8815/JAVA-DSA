@@ -37,5 +37,5 @@ _(More coming soon!)_
 1. Make sure you have **Java 17 or above** installed.
 2. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/DSA-Java-Implementation.git
+   git clone https://github.com/bhagwan8815/DSA-Java-Implementation.git
    cd DSA-Java-Implementation
